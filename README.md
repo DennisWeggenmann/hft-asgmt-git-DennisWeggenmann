@@ -1,5 +1,7 @@
-# hft-asgmt-git
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr-assignments/hft-asgmt-git.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr-assignments/hft-asgmt-git)
 
-## Todos
+# hft-asgmt-git 
+
+## TODO
 - [ ] Create an index.html file
 - [ ] Push in repo
