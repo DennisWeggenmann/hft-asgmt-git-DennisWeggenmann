@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr-assignments/hft-asgmt-git.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr-assignments/hft-asgmt-git)
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-git-USERNAME.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-git-USERNAME)
 
 # hft-asgmt-git 
 
