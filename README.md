@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-git-91wede1bif.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-git-91wede1bif)
+[![Build Status](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-git-DennisWeggenmann.svg?branch=master)](https://travis-ci.org/hft-stuttgart-ipr/hft-asgmt-git-DennisWeggenmann)
 
 # hft-asgmt-git 
 
